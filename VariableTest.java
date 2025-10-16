@@ -1,6 +1,5 @@
 public class VariableTest{
-}
-   First Question
+   //First Question
     static int counter=0;
 
     public void incremnetsCounter(){
@@ -12,9 +11,9 @@ public class VariableTest{
         obj1.incremnetsCounter();
          VariableTest obj2=new VariableTest();
         obj2.incremnetsCounter();
-}
+}}
  //Second Question
-        public class VariableTest{
+       /* public class Variable{
             public static void main (String[]args){
                 int outerX=5;
                 System.out.println("Before block: outerX= "+outerX);
@@ -26,7 +25,7 @@ public class VariableTest{
               System.out.println("After block: outerX= "+outerX);
 
             }
-        }
+        }*/
 
 
 
